@@ -1,0 +1,19 @@
+{
+  "wishlist": [
+    {
+      "id": 1,
+      "name": "wedding",
+      "products": []
+    },
+    {
+      "id": 2,
+      "name": "birthday",
+      "products": []
+    },
+    {
+      "id": 3,
+      "name": "x-mas",
+      "products": []
+    }
+  ]
+}

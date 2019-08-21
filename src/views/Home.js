@@ -5,11 +5,11 @@ import WishlistContainer from '../containers/WishlistContainer';
 import {Provider} from 'react-redux';
 import store from '../store/store';
 
-const App = () => (
+const Home = () => (
     <Provider store={store}>
         <WishlistContainer/>
     </Provider>
 
 );
 
-export default App;
+export default Home;
